@@ -24,4 +24,5 @@
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat-square&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-218bea?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github">	
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
