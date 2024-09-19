@@ -13,16 +13,16 @@
 ## ✨ Tech & Skill
 
 <div align="left">
+  <img src="https://img.shields.io/badge/-Go-55b9f3?style=flat-square&logo=go">	
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat-square&logo=typescript&logoColor=white">
 
 
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white">	
-  <img src="https://img.shields.io/badge/-Go-55b9f3?style=flat-square&logo=go">	
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python"
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat-square&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-218bea?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github">	
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk">
 </div>
