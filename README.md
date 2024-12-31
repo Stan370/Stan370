@@ -26,3 +26,28 @@
   <img src="https://img.shields.io/badge/-Docker-218bea?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github">	
 </div>
+# 🎉 Happy New Year 2025! 🎉
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-username/your-repo/new-year-fireworks.gif" alt="Happy New Year Fireworks" width="400">
+</p>
+
+<div align="center">
+  <h1 style="color: #ff9a9e; font-size: 3rem; animation: glow 2s infinite alternate;">
+    🎆 Happy New Year 2025! 🎆
+  </h1>
+  <p style="font-size: 1.5rem;">
+    Wishing everyone a year filled with joy, success, and great achievements! 🥳✨
+  </p>
+</div>
+
+<style>
+  @keyframes glow {
+    from {
+      text-shadow: 0 0 10px white, 0 0 20px pink, 0 0 30px pink;
+    }
+    to {
+      text-shadow: 0 0 20px yellow, 0 0 30px orange, 0 0 40px red;
+    }
+  }
+</style>
