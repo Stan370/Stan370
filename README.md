@@ -27,12 +27,6 @@
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github">	
 </div>
 
-
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVqazV0OGFzNzJ2enpuam44enlpa21ib3VmZWR0OG1wMGxqc2EyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.webp" alt="Fireworks" width="400"></p>
-
-
-
 <div align="center">
   <h1 style="color: #ff9a9e; font-size: 3rem; animation: glow 2s infinite alternate;">
     🎆 Happy New Year 2025! 🎆
@@ -41,4 +35,10 @@
     Wishing everyone a year filled with joy, success, and less bug! 🥳✨
   </p>
 </div>
+
+
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVqazV0OGFzNzJ2enpuam44enlpa21ib3VmZWR0OG1wMGxqc2EyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.webp" alt="Fireworks" width="400"></p>
+
+
 
