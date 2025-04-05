@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/-Docker-218bea?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github">	
 </div>
-![skills](https://skillicons.dev/icons?i=redis,sqlite)
 
 <div align="center">
   <h1 style="color: #ff9a9e; font-size: 3rem; animation: glow 2s infinite alternate;">
