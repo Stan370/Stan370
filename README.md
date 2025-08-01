@@ -6,7 +6,7 @@
 
 - 👴 Hi! 我叫 <a href='https://stan370.github.io'>Stan</a>，<a href='https://stan370.github.io'>这里</a>是我的博客
 - 🚀 I'm currently coding cool stuff and occassional garbage in Go, React and Java. I love play video games(StarCraft, The Legend of Zelda), basketball and reading biography.
-- ✨ “你做出一样很酷的东西出来，想给他起什么名都可以”
+- ✨ Interest is the best teacher. “你做出一样很酷的东西出来，想给他起什么名都可以”
 
 
 
