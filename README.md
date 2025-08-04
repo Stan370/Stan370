@@ -13,7 +13,7 @@
 ## ✨ Tech & Skill
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Go-55b9f3?style=flat-square&logo=go">	
+  <img src="https://img.shields.io/badge/Go-145799?style=flat-square&logo=go">	
   <img src="https://img.shields.io/badge/Python-FCC624?style=flat-square&logo=python"
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat-square&logo=javascript&logoColor=white">
