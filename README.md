@@ -27,14 +27,6 @@
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github">	
 </div>
 
-<div align="center">
-  <h1 style="color: #ff9a9e; font-size: 3rem; animation: glow 2s infinite alternate;">
-    🎆 Happy New Year 2025! 🎆
-  </h1>
-  <p style="font-size: 1.5rem;">
-    Wishing everyone a year filled with joy, success, and less bug! 🥳✨
-  </p>
-</div>
 
 
 <p align="center">
