@@ -4,8 +4,8 @@
 
 <img align='right' width='50%' alt='readme' src="https://stats-nine-kappa.vercel.app/api?username=Stan370&include_all_commits=false&rank_icon=github" />
 
-- 👴 Hi! 我叫 Stan，<a href='https://stan370.github.io'>这里</a>是我的博客
-- 🚀 I'm currently coding cool stuff and occassional garbage in Go, React and Java. I love play video games(StarCraft, Dota2), basketball and reading biography.
+- 👴 Hi! 我叫 Stan，<a href='https://stan370.github.io'>Here's</a> my old 博客
+- 🚀 I'm currently coding cool stuff and occassional garbage in Go and Typescript. I love the history and philosophy behind games. Try combine the artistry with the rigorous logic in my work.
 - ✨ Interest is the best teacher. “你做出一样很酷的东西出来，想给他起什么名都可以”
 
 
